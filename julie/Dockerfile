@@ -1,4 +1,3 @@
-
 FROM fusuf/whatsasena:latest
 
 RUN git clone https://github.com/Shefin-Sir/Kelly-Mwol /root/WhatsAsenaDuplicated
